@@ -21,4 +21,6 @@ denovo:           jb             TF0,$
                   clr            TF0
                   mov            TH0,#(256-156)
 
-                  jmp            denovo            
+                  jmp            denovo
+
+end
